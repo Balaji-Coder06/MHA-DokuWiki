@@ -145,6 +145,7 @@ body::before {
     background-size: cover;
     background-position: center;
     border-radius: 14px;
+    border: 0.95px solid white;
     position: relative;
     text-decoration: none;
     overflow: hidden;
