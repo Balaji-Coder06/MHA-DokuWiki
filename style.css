@@ -153,7 +153,7 @@ body::before {
 }
 
 .page-home .card:hover {
-    transform: translateY(-8px);
+    transform: translateY(-6px);
 }
 
 .page-home .card {
