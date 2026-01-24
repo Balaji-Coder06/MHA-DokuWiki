@@ -134,7 +134,7 @@ body::before {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 14px;
+    gap: 20px;
     padding: 18px;
     background: var(--bg-panel);
     border-radius: 18px;
